@@ -1,0 +1,14 @@
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/bin/Debug/net9.0/PrivateLesson
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/bin/Debug/net9.0/PrivateLesson.deps.json
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/bin/Debug/net9.0/PrivateLesson.runtimeconfig.json
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/bin/Debug/net9.0/PrivateLesson.dll
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/bin/Debug/net9.0/PrivateLesson.pdb
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.AssemblyInfoInputs.cache
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.AssemblyInfo.cs
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.csproj.CoreCompileInputs.cache
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.dll
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/refint/PrivateLesson.dll
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.pdb
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/PrivateLesson.genruntimeconfig.cache
+/Users/sudenurarslan/RiderProjects/PrivateLesson/PrivateLesson/obj/Debug/net9.0/ref/PrivateLesson.dll
